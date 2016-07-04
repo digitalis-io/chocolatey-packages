@@ -7,7 +7,7 @@
         <authors>Marc Magnin @ Digitalis.io</authors>
         <projectUrl>http://cassandra.apache.org/</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>Apache cassandra 3,7</description>
+        <description>Apache cassandra 3.7</description>
         <releaseNotes>install destination: C:/Cassandra</releaseNotes>
         <tags>Cassandra, Java</tags>
     </metadata>
