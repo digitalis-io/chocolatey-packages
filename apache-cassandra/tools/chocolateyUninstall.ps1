@@ -1,0 +1,1 @@
+﻿rm -Recurse -Force C:/Cassandra

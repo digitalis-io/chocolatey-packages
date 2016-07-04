@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>apache-cassandra</id>
+        <version>3.7</version>
+        <title>cassandra</title>
+        <authors>Marc Magnin @ Digitalis.io</authors>
+        <projectUrl>http://cassandra.apache.org/</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Apache cassandra 3,7</description>
+        <releaseNotes>install destination: C:/Cassandra</releaseNotes>
+        <tags>Cassandra, Java</tags>
+    </metadata>
+</package>
